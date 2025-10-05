@@ -17,7 +17,7 @@ I’m passionate about building simple yet powerful Python projects that help me
 - *Interests:* AI, Automation, Web Apps, and Data Science
 
  📂 Featured Projects
-- 🪨 [Rock Paper Scissors Game](#) — A simple Python game showcasing logic and user interaction
+- 🪨 [Rock Paper Scissors Game](https://github.com/TheRealDavidDev/rock-paper-scissors) — A simple Python game showcasing logic and user interaction
 
  📫 Contact Me
 - 📧 Email: [toruafolabi@gmail.com]
